@@ -1,4 +1,5 @@
 ---
-title: Info
+title: Untitled Page
+
 ---
-Info
+.
