@@ -3,10 +3,9 @@ title: Documentation
 
 ---
 ## Usage
-* **[Get started](get_started.md)**
+* **[Get started](get_started.md)**  
   Get started with creating a site and adding some pages.
-
-* **[Markdown help](markdown.md)**
+* **[Markdown help](markdown.md)**  
   Learn how to format your pages.
 
 ## Legal
