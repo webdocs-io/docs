@@ -43,4 +43,10 @@ public class Foo {
     }
 }
 ~~~
+```
+
+Images:
+
+```markdown
+![Alt text](image.png)
 ```	
