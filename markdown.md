@@ -2,14 +2,14 @@
 title: Markdown help
 
 ---
-Text formatting:
+## Text formatting
 
 Example | Description
 -------|-------
 \*\*bold\*\* | Make text **bold**
 \_italic\_ | Make text _italic_
 
-Links:
+## Links
 
 ```markdown
 [Link text](https://example.org)
@@ -17,7 +17,23 @@ Links:
 
 > [Link text](https://example.org)	
 
-Code blocks:
+You can link to other pages in your repo:
+
+```markdown
+[Get started](get_started.md)
+```
+
+> [Get started](get_started.md)
+
+If the linked page does not exist, the link will be colored red:
+
+```markdown
+[Link to a page that doesn't exist](does_not_exist.md)
+```
+
+> [Link to a page that doesn't exist](does_not_exist.md)
+
+## Code blocks
 
 ~~~java
 ```java
@@ -45,7 +61,7 @@ public class Foo {
 ~~~
 ```
 
-Images:
+## Images
 
 ```markdown
 ![Alt text](image.png)
