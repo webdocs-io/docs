@@ -3,8 +3,8 @@ title: Documentation
 
 ---
 ## About Webdocs.io
-* **[How does Webdocs.io work?](how.md)
-* **[Why should I use Webdocs.io?](why.md)
+* **[How does Webdocs.io work?](how.md)**
+* **[Why should I use Webdocs.io?](why.md)**
 
 ## Usage
 * **[Get started](get_started.md)**  
