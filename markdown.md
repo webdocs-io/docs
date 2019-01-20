@@ -11,9 +11,9 @@ Links:
 
 ```markdown
 [Link text](https://example.org)
-
-> [Link text](https://example.org)
 ```
+
+> [Link text](https://example.org)	
 
 Code blocks:
 
