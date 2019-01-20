@@ -21,11 +21,11 @@ Code blocks:
 
 ```markdown
 ```java
-package foo;
+    package foo;
 
-public class Foo {
-  void bar() {
-    System.out.println("Hello, World");
-  }
-}
-  ````  
+    public class Foo {
+      void bar() {
+        System.out.println("Hello, World");
+      }
+    }
+\```  
