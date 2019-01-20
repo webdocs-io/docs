@@ -19,13 +19,14 @@ Links:
 
 Code blocks:
 
-```markdown
+~~~markdown
 ```java
-    package foo;
+package foo;
 
-    public class Foo {
-      void bar() {
+public class Foo {
+    void bar() {
         System.out.println("Hello, World");
-      }
     }
-    ```  
+}
+```
+~~~
