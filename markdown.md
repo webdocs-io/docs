@@ -33,7 +33,7 @@ public class Foo {
 
 or
 
-```markdown
+```java
 ~~~java
 package foo;
 
@@ -44,4 +44,3 @@ public class Foo {
 }
 ~~~
 ```	
-
