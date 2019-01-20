@@ -30,3 +30,18 @@ public class Foo {
 }
 ```
 ~~~
+
+or
+
+```markdown
+~~~java
+package foo;
+
+public class Foo {
+    void bar() {
+        System.out.println("Hello, World"); 
+    }
+}
+~~~
+```	
+
