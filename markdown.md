@@ -4,9 +4,10 @@ title: Markdown help
 ---
 Text formatting:
 
-|| Header | Header ||
-| \*\*bold\*\* | Make text **bold** |
-| \_italic\_ | Make text _italic_ |
+Example | Description
+-------|-------
+\*\*bold\*\* | Make text **bold**
+\_italic\_ | Make text _italic_
 
 Links:
 
