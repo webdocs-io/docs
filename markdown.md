@@ -11,7 +11,7 @@ Example | Description
 
 ## Links
 
-```markdown
+```
 [Link text](https://example.org)
 ```
 
@@ -19,7 +19,7 @@ Example | Description
 
 You can link to other pages in your repo:
 
-```markdown
+```
 [Get started](get_started.md)
 ```
 
@@ -27,7 +27,7 @@ You can link to other pages in your repo:
 
 If the linked page does not exist, the link will be colored red:
 
-```markdown
+```
 [Link to a page that doesn't exist](does_not_exist.md)
 ```
 
