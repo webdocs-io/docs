@@ -18,7 +18,7 @@ Links:
 Code blocks:
 
 ```markdown
-\```java
+```java
 package foo;
 
 public class Foo {
@@ -26,5 +26,5 @@ public class Foo {
     System.out.println("Hello, World");
   }
 }
-\```
+```
 ```
