@@ -11,7 +11,7 @@ Example | Description
 
 ## Links
 
-```
+```plain
 [Link text](https://example.org)
 ```
 
