@@ -19,7 +19,7 @@ Links:
 
 Code blocks:
 
-~~~markdown
+~~~java
 ```java
 package foo;
 
