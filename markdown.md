@@ -35,7 +35,7 @@ If the linked page does not exist, the link will be colored red:
 
 ## Code blocks
 
-~~~java
+~~~
 ```java
 package foo;
 
@@ -49,7 +49,7 @@ public class Foo {
 
 or
 
-```java
+```
 ~~~java
 package foo;
 
