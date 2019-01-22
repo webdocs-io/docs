@@ -2,15 +2,15 @@
 title: Documentation for Webdocs.io
 
 ---
-## About Webdocs.io
-* **[How does Webdocs.io work?](how.md)**
-* **[Why should I use Webdocs.io?](why.md)**
-
-## Usage
+## New to Webdocs.io?
 * **[Get started](get_started.md)**  
   Get started with creating a site and adding some pages.
 * **[Markdown help](markdown.md)**  
   Learn how to format your pages.
+
+## About Webdocs.io
+* **[How does Webdocs.io work?](how.md)**
+* **[Why should I use Webdocs.io?](why.md)**
 
 ## Legal
 * [Privacy policy](gdpr/privacy-policy.md)
