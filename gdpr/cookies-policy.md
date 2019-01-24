@@ -2,7 +2,7 @@
 title: Cookies Policy for Webdocs.io
 
 ---
-This is the Cookie Policy for Webdocs.io, accessible from https://webdocs.io
+This is the Cookie Policy for Webdocs.io, accessible from [https://webdocs.io](https://webdocs.io)
 
 ## What Are Cookies
 
@@ -35,7 +35,7 @@ In some special cases we also use cookies provided by trusted third parties. The
 
 ## More Information
 
-Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. This Cookies Policy was created with the help of the Generator of [GDPR Cookies Policy](https://cookiepolicygenerator.com) and the [GDPR Privacy Policy](https://privacypolicygenerator.info).
+Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.
 
 However if you are still looking for more information then you can contact us through one of our preferred contact methods:
 
