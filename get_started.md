@@ -3,7 +3,7 @@ title: Get Started
 
 ---
 1. Login using your Github account. Simply click the `Login` button in the upper right corner.
-![Screenshot of login button](assets/get_started_login.jpg)
+![Screenshot of login button](assets/get_started_login.png)
 
 2. Click `Create Site from Github Repo` to create a site from your Github repo. If you don't have a Github repo yet, go to [Github](https://www.github.com) and create a repository. [Click here](https://help.github.com/articles/create-a-repo/) to read more on how to create a repository on Github.
 
