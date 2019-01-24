@@ -7,7 +7,7 @@ title: Documentation for Webdocs.io
   Get started with creating a site and adding some pages.
 * **[Markdown help](markdown.md)**  
   Learn how to format your pages.
-* **[Frequently asked questions](faq.md)
+* **[Frequently asked questions](faq.md)**
   Read our most frequently asked questions!
 
 ## About Webdocs.io
