@@ -64,9 +64,11 @@ public class Foo {
 ## Web requests
 
 ```
-curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' \
+$ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' \
   https://example.org
 ```
+
+Turns into an interactive widget with code examples:
 
 $ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' https://example.org
 
