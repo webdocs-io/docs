@@ -1,4 +1,6 @@
 ---
+description: Markdown help for formatting text, adding images, creating code blocks
+  and more.
 title: Markdown help
 
 ---
