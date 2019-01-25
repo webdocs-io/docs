@@ -1,4 +1,5 @@
 ---
+description: These are the terms and conditions for Webdocs.io
 title: Terms and Conditions for Webdocs.io
 
 ---
