@@ -68,7 +68,7 @@ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' \
   https://example.org
 ```
 
-> $ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' https://example.org
+$ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' https://example.org
 
 ## Images
 
