@@ -1,4 +1,5 @@
 ---
+description: Documentation, resources, guides and tips for Webdocs.io.
 title: Documentation for Webdocs.io
 
 ---
