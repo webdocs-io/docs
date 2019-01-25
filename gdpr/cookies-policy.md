@@ -1,4 +1,5 @@
 ---
+description: This is the Cookie Policy for Webdocs.io
 title: Cookies Policy for Webdocs.io
 
 ---
