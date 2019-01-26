@@ -1,6 +1,5 @@
 ---
-title: '-'
-
+title: ''
 ---
 This is the README file for Webdocs.io.
 
