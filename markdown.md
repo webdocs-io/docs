@@ -2,7 +2,6 @@
 description: Markdown help for formatting text, adding images, creating code blocks
   and more.
 title: Markdown help
-
 ---
 ## Text formatting
 
@@ -79,3 +78,15 @@ $ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' htt
 ```markdown
 ![Alt text](image.png)
 ```	
+
+## Admonitions
+
+```markdown
+!!! info
+    Hello, World!
+```
+
+renders:
+
+!!! info
+    Hello, World!
