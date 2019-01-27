@@ -74,12 +74,12 @@ Turns into an interactive widget with code examples:
 $ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' https://example.org
 
 # Images
-
+	
 ```markdown
 ![Alt text](image.png)
-```	
+```
 
-## Admonitions
+# Admonitions
 
 Syntax:
 
