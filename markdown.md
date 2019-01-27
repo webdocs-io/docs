@@ -3,14 +3,14 @@ description: Markdown help for formatting text, adding images, creating code blo
   and more.
 title: Markdown help
 ---
-## Text formatting
+# Text formatting
 
 Example | Description
 -------|-------
 \*\*bold\*\* | Make text **bold**
 \_italic\_ | Make text _italic_
 
-## Links
+# Links
 
 ```
 [Link text](https://example.org)
@@ -34,7 +34,7 @@ If the linked page does not exist, the link will be colored red:
 
 > [Link to a page that doesn't exist](does_not_exist.md)
 
-## Code blocks
+# Code blocks
 
 ~~~
 ```java
@@ -62,7 +62,7 @@ public class Foo {
 ~~~
 ```
 
-## Web requests
+# Web requests
 
 ```
 $ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' \
@@ -73,7 +73,7 @@ Turns into an interactive widget with code examples:
 
 $ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' https://example.org
 
-## Images
+# Images
 
 ```markdown
 ![Alt text](image.png)
