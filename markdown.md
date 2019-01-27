@@ -99,4 +99,4 @@ Renders:
 !!! info
     Hello, World!
 
-(Reads more here)[https://github.com/vsch/flexmark-java/wiki/Admonition-Extension]
+[Reads more here](https://github.com/vsch/flexmark-java/wiki/Admonition-Extension)
