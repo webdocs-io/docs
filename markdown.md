@@ -81,12 +81,22 @@ $ curl -X POST -H 'Content-Type: application/json' -d '{ "Hello": "World" }' htt
 
 ## Admonitions
 
+Syntax:
+
+```markdown
+!!! <type> ["<title>"]
+```
+
+Example:
+
 ```markdown
 !!! info
     Hello, World!
 ```
 
-renders:
+Renders:
 
 !!! info
     Hello, World!
+
+(Reads more here)[https://github.com/vsch/flexmark-java/wiki/Admonition-Extension]
