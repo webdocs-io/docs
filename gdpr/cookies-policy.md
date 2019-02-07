@@ -1,7 +1,6 @@
 ---
 description: This is the Cookie Policy for Webdocs.io
 title: Cookies Policy for Webdocs.io
-
 ---
 This is the Cookie Policy for Webdocs.io, accessible from [https://webdocs.io](https://webdocs.io)
 
@@ -40,4 +39,4 @@ Hopefully that has clarified things for you and as was previously mentioned if t
 
 However if you are still looking for more information then you can contact us through one of our preferred contact methods:
 
-* Email: gdpr@webdocs.io
+* Email: [gdpr@webdocs.io](mailto:gdpr@webdocs.io)
