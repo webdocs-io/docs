@@ -9,6 +9,8 @@ title: Documentation for Webdocs.io
   Learn how to format your pages.
 * **[Frequently asked questions](faq.md)**  
   Read our most frequently asked questions!
+* **[.webdocs.yml](webdocs_yml.md)**  
+  Learn more about how to configure your site using the `.webdocs.yml` file in your repo.
 
 # About Webdocs.io
 * **[How does Webdocs.io work?](how.md)**
